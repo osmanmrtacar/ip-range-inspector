@@ -7,3 +7,6 @@ I created this to find out my raspberrypi IP address in my local network.
 example
 
 python3 main.py 192.168.1.0/24
+
+---
+in case of Client Isolation use arp.py
